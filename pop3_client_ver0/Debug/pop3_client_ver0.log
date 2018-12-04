@@ -1,0 +1,4 @@
+﻿  pop3_client_ver0.cpp
+c:\users\thanh.dh166716\source\repos\pop3_client\pop3_client_ver0\pop3_client_ver0.cpp(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\thanh.dh166716\source\repos\pop3_client\pop3_client_ver0\pop3_client_ver0.cpp(2): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  pop3_client_ver0.vcxproj -> C:\Users\thanh.dh166716\source\repos\POP3_Client\Debug\pop3_client_ver0.exe
